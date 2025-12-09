@@ -2,7 +2,7 @@ import dotenv
 dotenv.load_dotenv()
 
 from langchain_google_genai import ChatGoogleGenerativeAI
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
+llm = ChatGoogleGenerativeAI(model="gemini-robotics-er-1.5-preview")
 
 with open("AI 에이전트 동향.txt", "r", encoding="utf-8") as f:
     file = f.read()

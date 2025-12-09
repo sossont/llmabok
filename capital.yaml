@@ -1,0 +1,12 @@
+_type: prompt
+input_variables:
+- country
+metadata: null
+name: null
+optional_variables: []
+output_parser: null
+partial_variables: {}
+tags: null
+template: "{country}\uC758 \uC218\uB3C4\uB294?"
+template_format: f-string
+validate_template: false

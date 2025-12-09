@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "country"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "{country}\uc758 \uc218\ub3c4\ub294?",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
